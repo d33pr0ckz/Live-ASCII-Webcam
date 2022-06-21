@@ -58,6 +58,14 @@
 
 
 
+https://user-images.githubusercontent.com/65613807/174869133-7bb07792-e390-4485-8f0a-907b36cffdb4.mp4
+
+
+
+https://user-images.githubusercontent.com/65613807/174869163-c3eceb5e-e721-4c94-b479-8f60462284db.mp4
+
+
+
 ## Internal Workings
  The webcam is just another camera that captures a video through its lens and shows it on the screen. So, in other terms, our goal is to ASCIIfy the video captured through the webcam, but in *real* time. 
 
