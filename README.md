@@ -28,7 +28,7 @@
 2. Clone this repo by using the following command:
 
 ```
- git clone https://github.com/tushdon2/Qiskit_Hackathon_IITR_2021.git 
+ git clone https://github.com/d33pr0ckz/Live-ASCII-Webcam.git
  ```
 
 3. Open a terminal in the root directory of this repository.
