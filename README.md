@@ -28,8 +28,8 @@
 2. Clone this repo by using the following command:
 
 ```
- git clone https://github.com/d33pr0ckz/Live-ASCII-Webcam.git
- ```
+    git clone https://github.com/d33pr0ckz/Live-ASCII-Webcam.git
+```
 
 3. Open a terminal in the root directory of this repository.
 4. The python script can accept atmost 4 arguments which have been mentioned below along with their identifiers:
